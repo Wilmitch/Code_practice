@@ -1,0 +1,4 @@
+total 8
+-rw-rw-r-- 1 wilmitch wilmitch 44 Mar  6 20:26 28-input.txt
+-rw-rw-r-- 1 wilmitch wilmitch  0 Mar  6 20:40 input.txt
+-rw-rw-r-- 1 wilmitch wilmitch 66 Feb  6 10:30 text.txt

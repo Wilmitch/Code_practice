@@ -1,0 +1,17 @@
+h2 {
+    color: rgb(41, 68, 0);
+    background-color: lightgray;
+}
+
+#header1 {
+    color: red;
+    background-color: black;
+}
+table, th, td {
+    border: 1px;
+    border-collapse: collapse;
+}
+a:hover {
+    color: green;
+    background-color: grey;
+}
